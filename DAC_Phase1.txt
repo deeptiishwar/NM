@@ -1,0 +1,55 @@
+			  Public Health Awareness
+              Phase 1: Problem Definition and Design Thinking
+
+Table of Contents
+1. Project definition
+2. Introduction
+3. Project objective
+4. Data collection
+5. Analysis Approach
+6. Code integration
+7. Insights Derivation
+8. Conclusion
+
+Project Definition: 
+The project involves analyzing data from public health awareness campaigns to measure their effectiveness in reaching the target audience and increasing awareness. The objective is to provide insights that evaluate the impact of the campaigns and inform future strategies. This project includes defining analysis objectives, collecting campaign data, designing relevant visualizations in IBM Cognos, and using code for data analysis.
+
+Introduction: 
+In the realm of public health, the success of awareness campaigns is paramount. These campaigns are instrumental in disseminating crucial information, influencing behavioral change, and ultimately improving public health outcomes. In this project, we delve into the analysis of data obtained from various public health awareness campaigns, aiming to measure their effectiveness in reaching the target audience and increasing awareness.
+
+Project Objectives:
+The primary objectives of this project are as follows:
+1. Measure Audience Reach: Determine the extent to which the campaigns have reached their intended target audience through various channels.
+2. Assess Awareness Levels: Evaluate the impact of the campaigns on increasing awareness among the target demographic.
+3. Evaluate Campaign Impact: Analyze data to ascertain the campaigns' effectiveness in prompting desired actions or behavioral changes
+
+Data Collection:
+The success of this analysis relies on the availability and quality of data. Data collection encompasses:
+1. Identifying Sources: Identifying and accessing relevant data sources, including campaign engagement metrics, audience demographics, and post-campaign surveys.
+2. Methodology: Describing the methods employed for data collection, whether through online platforms, surveys, or other channels.
+
+Analysis Approach:
+To achieve our objectives, we will employ the following analytical techniques:
+1.  Audience Reach: Utilizing reach metrics, such as impressions and unique visitors, to gauge campaign penetration.
+2. Assessing Awareness Levels: Analyzing awareness survey data and tracking changes in awareness metrics over time.
+3. Evaluating Campaign Impact: Employing statistical analysis to determine if there is a significant correlation between campaign exposure and desired behaviors.
+
+Code Integration:
+ Determine where code can enhance your analysis. Code can be valuable for tasks like data cleaning, data transformation, and statistical analysis. For instance, you can use Python or R for data preprocessing and statistical tests to measure campaign impact.
+
+Insights Derivation:
+This section will present the core findings of our analysis:
+1. Key Metrics: Highlighting the most relevant metrics that assess campaign success.
+2. Trends and Patterns: Identifying trends, patterns, and anomalies in the data that provide valuable insights.
+3. Recommendations: Offering data-driven recommendations for improving future campaigns based on the analysis.
+
+Conclusion:
+In conclusion, this project aims to shed light on the effectiveness of public health awareness campaigns. By evaluating reach, awareness, and impact, we gain valuable insights that can inform future strategies, leading to more impactful and successful campaigns in the field of public health awareness.
+
+
+TEAM MEMBERS:
+Deepti Ishwar (2021103008)
+Rajalakshmi S (2021103038)
+Kanishka S (2021103018)
+
+
